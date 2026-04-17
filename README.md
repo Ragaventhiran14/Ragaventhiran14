@@ -10,7 +10,7 @@
 * 🎓 Fresher with strong foundation in java full stack development
 * 🌱 Currently improving my skills in Spring Boot & React
 * 💡 Interested in building real-world applications
-* 📫 Reach me at: [your-email@example.com](gragaventhiran14@gmail.com.com)
+* 📫 Reach me at: [gragaventhiran14@gmail.com.com]
 
 ---
 
