@@ -19,7 +19,7 @@
 * **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS, Material UI
 * **Backend:** Java, Spring Boot, REST APIs
 * **Database:** MySQL
-* **Tools:** Git, GitHub, Postman, VA Code, Eclipse
+* **Tools:** Git, GitHub, Postman, VS Code, Eclipse
 
 ---
 
